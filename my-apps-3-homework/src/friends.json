@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Keith Ellison",
+    "image": "https://www.congress.gov/img/member/114_rp_mn_5_ellison_keith_200.jpg",
+    "occupation": "Attorney General Candiate",
+    "location": "Minneapolis Proper",
+    "clickCount": 0
+  },
+  {
+    "id": 2,
+    "name": "Kurt Daudt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kurt_Daudt2.jpg/440px-Kurt_Daudt2.jpg",
+    "occupation": "Republican Speaker of the House",
+    "location": "Crown, MN",
+    "clickCount": 0
+  },
+  {
+    "id": 3,
+    "name": "Tim Walz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tim_Walz_official_photo.jpg",
+    "occupation": "Gubernatorial Candidate",
+    "location": "Mankato",
+    "clickCount": 0
+  },
+  {
+    "id": 4,
+    "name": "Erin Murphy",
+    "image": "http://www.house.leg.state.mn.us/hinfo/memberimgls90/64A.jpg?v=2018",
+    "occupation": "Gubernatorial Candidate",
+    "location": "St Paul, MN",
+    "clickCount": 0
+  },
+  {
+    "id": 5,
+    "name": "Erin Maye Quade",
+    "image": "http://www.house.leg.state.mn.us/hinfo/memberimgls90/57A.jpg?v=2018",
+    "occupation": "First Term Congresswoman ",
+    "location": "Apple Valley, MN",
+    "clickCount": 0
+  },
+  {
+    "id": 6,
+    "name": "Tim Pawlenty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tim_Pawlenty_official_photo.jpg/220px-Tim_Pawlenty_official_photo.jpg",
+    "occupation": "Returning candidate for gubernatorial",
+    "location": "Minnesota",
+    "clickCount": 0
+  },
+  {
+    "id": 7,
+    "name": "Lori Swanson",
+    "image": "https://www.ag.state.mn.us/Photos/LoriSwanson.jpg",
+    "occupation": "Candidate for Governor",
+    "location": "Former Attorney General",
+    "clickCount": 0
+  },
+  {
+    "id": 8,
+    "name": "Ilhan Omar",
+    "image": "http://www.house.leg.state.mn.us/hinfo/memberimgls90/60B.jpg?v=2018",
+    "occupation": "First Term Congresswoman in Minnesota House",
+    "location": "Minneapolis",
+    "clickCount": 0
+  },
+  {
+    "id": 9,
+    "name": "Mike Freeman",
+    "image": "https://bloximages.newyork1.vip.townnews.com/swnewsmedia.com/content/tncms/assets/v3/editorial/8/2c/82c973b3-01b5-5362-b7c2-bf33eb776317/5aa176e11238f.image.jpg?resize=1200%2C1593",
+    "occupation": "Hennepin County Attorney, non-DFL endorsed",
+    "location": "Minneapolis",
+    "clickCount": 0
+  },
+  {
+    "id": 10,
+    "name": "Aisha Gomez",
+    "image": "https://static1.squarespace.com/static/5a295b6029f18754da5aacf6/t/5a29c4f324a694eabe09cfaa/1520458678856/",
+    "occupation": "62-B House Candidate",
+    "location": "Minneapolis, MN",
+    "clickCount": 0
+  },
+  {
+    "id": 11,
+    "name": "Mike Haase",
+    "image": "https://img.apmcdn.org/da123a3fb5a8c66932cc163d623ee78fda9807f7/uncropped/7eecb6-20180517-mark-hasse.jpg",
+    "occupation": "Endorsed Candidate for Hennepin County Attorney",
+    "location": "Hennepin County",
+    "clickCount": 0
+  },
+  {
+    "id": 12,
+    "name": "Melvin Carter",
+    "image": "http://www.melvincarter.org/wp-content/uploads/2016/04/MC3FAM2-1-1600x850-1M.jpg",
+    "occupation": "Mayor of St Paul!",
+    "location": "St Paul, MN",
+    "clickCount": 0
+     
+  }
+]
